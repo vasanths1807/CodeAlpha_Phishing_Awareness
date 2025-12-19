@@ -1,5 +1,4 @@
-# CodeAlpha_Phishing_Awareness
-Phishing Awareness Training – CodeAlpha 
+
 # Phishing Awareness Training
 
 ## Internship Domain
